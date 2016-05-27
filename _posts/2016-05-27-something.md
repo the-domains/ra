@@ -1,11 +1,11 @@
 ---
 author: []
 title: Something
-dateModified: '2016-05-27T06:24:08.435Z'
-datePublished: '2016-05-27T06:24:27.989Z'
+dateModified: '2016-05-27T06:25:42.640Z'
+datePublished: '2016-05-27T06:25:57.839Z'
 description: 'The fact I '
-starred: false
 sourcePath: _posts/2016-05-27-something.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
