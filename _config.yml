@@ -1,14 +1,26 @@
-layout_spectrum: 0.1792115
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.003584229
-  brandStrength: 0.4784946
+  brandStrength: 0.4802867
   lightness: 1
   brandColors:
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
+    - '#442E16'
+    - '#FFFFFF'
+    - '#A06F2F'
+    - '#DEA14F'
+    - '#E8F495'
   rhythmicContrast: 0.5182082
 typography_spectrum: 0.516129
+layout_spectrum: 0.1792115
 name: RA
