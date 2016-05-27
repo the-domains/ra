@@ -1,0 +1,14 @@
+layout_spectrum: 0.1792115
+color:
+  saturation: 0.003584229
+  brandStrength: 0.4784946
+  lightness: 1
+  brandColors:
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+  rhythmicContrast: 0.5182082
+typography_spectrum: 0.516129
+name: RA
