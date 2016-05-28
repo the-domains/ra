@@ -4,12 +4,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.4050179
 color:
   saturation: 0.003584229
   brandStrength: 0.4802867
@@ -21,6 +22,5 @@ color:
     - '#DEA14F'
     - '#E8F495'
   lightness: 1
-typography_spectrum: 0.4050179
-layout_spectrum: 0.4946237
+layout_spectrum: 1
 name: RA
