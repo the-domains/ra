@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Reagan Ashmore]]></title>
         <description><![CDATA[Reagan Ashmore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ra/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 08:16:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 08:55:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ra/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These Cronometrics Watches Are Unbelievably Stylish]]></title>
+            <description><![CDATA[<article><h1>These Cronometrics Watches Are Unbelievably Stylish</h1><p>Read These Cronometrics Watches Are Unbelievably Stylish</p><img src="http://a3.files.theultralinx.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTM4OTM2ODc4NjE0MTkzNjU1.jpg"></article>]]></description>
+            <link>http://theultralinx.com/2016/05/these-cronometrics-watches-are-unbelievably-stylish/</link>
+            <guid isPermaLink="false">8da08c06-f70c-434a-9fb9-feba4f10a860</guid>
+            <pubDate>Sat, 28 May 2016 08:54:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Minimal Interior Design Inspiration #41]]></title>
-            <description><![CDATA[<article><h1>Minimal Interior Design Inspiration #41</h1><p>Read Minimal Interior Design Inspiration #41</p><img src="http://a4.files.theultralinx.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTM4OTU4NTkwMjEwNzQ1ODQ3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Minimal Interior Design Inspiration #41</h1><p>Read Minimal Interior Design Inspiration #41</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b53645b15ccef95c9282ce7b0321b2631b9c5739.jpg"></article>]]></description>
             <link>http://theultralinx.com/2016/05/minimal-interior-design-inspiration-41/</link>
             <guid isPermaLink="false">d0903747-2339-4aa0-a211-770394a13867</guid>
             <pubDate>Sat, 28 May 2016 08:15:37 GMT</pubDate>
