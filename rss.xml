@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reagan Ashmore]]></title>
+        <description><![CDATA[Reagan Ashmore]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 May 2016 08:16:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Minimal Interior Design Inspiration #41]]></title>
+            <description><![CDATA[<article><h1>Minimal Interior Design Inspiration #41</h1><p>Read Minimal Interior Design Inspiration #41</p><img src="http://a4.files.theultralinx.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTM4OTU4NTkwMjEwNzQ1ODQ3.jpg"></article>]]></description>
+            <link>http://theultralinx.com/2016/05/minimal-interior-design-inspiration-41/</link>
+            <guid isPermaLink="false">d0903747-2339-4aa0-a211-770394a13867</guid>
+            <pubDate>Sat, 28 May 2016 08:15:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
