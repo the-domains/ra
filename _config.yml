@@ -14,13 +14,13 @@ typography_spectrum: 0.4050179
 color:
   saturation: 0.003584229
   brandStrength: 0.4802867
-  rhythmicContrast: 0.5182082
-  brandColors:
-    - '#442E16'
-    - '#FFFFFF'
-    - '#A06F2F'
-    - '#DEA14F'
-    - '#E8F495'
   lightness: 1
+  brandColors:
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+    - '#000000'
+  rhythmicContrast: 1
 layout_spectrum: 1
 name: RA
