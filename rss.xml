@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Reagan Ashmore]]></title>
         <description><![CDATA[Reagan Ashmore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://reaganashmore.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 06:59:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 07:02:06 GMT</lastBuildDate>
+        <atom:link href="http://reaganashmore.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Minimal Interior Design Inspiration #41]]></title>
+            <description><![CDATA[<article><h1>Minimal Interior Design Inspiration #41</h1><p>Read Minimal Interior Design Inspiration #41</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b53645b15ccef95c9282ce7b0321b2631b9c5739.jpg"></article>]]></description>
+            <link>http://theultralinx.com/2016/05/minimal-interior-design-inspiration-41/</link>
+            <guid isPermaLink="false">d0903747-2339-4aa0-a211-770394a13867</guid>
+            <pubDate>Tue, 31 May 2016 07:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Decked Out Shipping Container Makes For One Hell Of A Tiny Office]]></title>
+            <description><![CDATA[<article><h1>A Decked Out Shipping Container Makes For One Hell Of A Tiny Office</h1><p>Need an office for yourself or a small team? There are plenty of options out there, but few as cool (or as easy) as this on-demand, completley decked out shipping container that can be delivered to wherever you need. All you need is the land.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/000e6b2c36f8291509f0e6071e5325c62a53bf60.jpg"></article>]]></description>
+            <link>http://airows.com/interiors-and-home/shipping-container-hiloft</link>
+            <guid isPermaLink="false">1b77268d-ff9d-4134-99a6-dda4f102ec39</guid>
+            <pubDate>Tue, 31 May 2016 07:01:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chalet Anzere - Switzerland]]></title>
             <description><![CDATA[<article><h1>Chalet Anzere - Switzerland</h1><p>Architecture The 'Swiss chalet' style brings to mind wooden buildings with high gabled roofs, decorative carvings, rows of balconies and exposed wood beams. But it is also a style that has been more or less ruined by its hundreds of boring, cookie-cut re-iterations in ski resorts around the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15db1798fdaaf220be5b28bac691d2a4df2c9a6e.jpg"></article>]]></description>
