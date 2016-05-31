@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4050179
+typography_spectrum: 0.3831458422355354
 color:
-  saturation: 0.003584229
-  brandStrength: 0
-  lightness: 1
+  saturation: 0.22502893535420299
+  brandStrength: 0.11999548110179603
+  lightness: 0.617373182438314
   brandColors:
-    - '#060606'
-    - '#474747'
-    - '#DADADA'
-    - '#797979'
-    - '#AEAEAE'
-  rhythmicContrast: 1
-layout_spectrum: 1
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  rhythmicContrast: 0.305009193951264
+layout_spectrum: 0.8476040763780475
 name: RA
