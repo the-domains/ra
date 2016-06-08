@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.3831458422355354
 color:
-  saturation: 0.22502893535420299
-  brandStrength: 0.11999548110179603
+  saturation: 0.225028935354203
+  brandStrength: 0.119995481101796
   lightness: 0.617373182438314
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#FFFFFF'
+    - '#424242'
+    - '#B7B7B7'
+    - '#999797'
+    - '#807E7F'
   rhythmicContrast: 0.305009193951264
 layout_spectrum: 0.8476040763780475
 name: RA
