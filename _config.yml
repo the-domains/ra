@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.3831458422355354
 color:
   saturation: 0.225028935354203
@@ -22,7 +10,23 @@ color:
     - '#999797'
     - '#807E7F'
   rhythmicContrast: 0.305009193951264
+opengraph:
+  appId: '1029550447130474'
 layout_spectrum: 0.8476040763780475
-name: RA
 analytics:
   google: UA-78958233-1
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/80523df1-cd2f-41ab-b9a6-20a7dec82b89.png'
+name: RA
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a13f82-5f42-465f-85a0-aeb8a915764f.png'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
