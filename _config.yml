@@ -1,32 +1,32 @@
-typography_spectrum: 0.3831458422355354
-color:
-  saturation: 0.225028935354203
-  brandStrength: 0.119995481101796
-  lightness: 0.617373182438314
-  brandColors:
-    - '#FFFFFF'
-    - '#424242'
-    - '#B7B7B7'
-    - '#999797'
-    - '#807E7F'
-  rhythmicContrast: 0.305009193951264
+name: Reagan Ashmore
 opengraph:
   appId: '1029550447130474'
-layout_spectrum: 0.12758163805119693
-analytics:
-  google: UA-78958233-1
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/80523df1-cd2f-41ab-b9a6-20a7dec82b89.png'
-name: Reagan Ashmore
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6ab4fc-0a25-4f34-9fa1-9d87f72ad99c.png'
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/80523df1-cd2f-41ab-b9a6-20a7dec82b89.png'
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#424242'
+    - '#B7B7B7'
+    - '#999797'
+    - '#807E7F'
+  rhythmicContrast: 0.9157706
+typography_spectrum: 0.40681
+layout_spectrum: 0.1275816380511969
+analytics:
+  google: UA-78958233-1
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6ab4fc-0a25-4f34-9fa1-9d87f72ad99c.png'
