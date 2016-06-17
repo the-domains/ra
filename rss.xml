@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Reagan Ashmore]]></title>
         <description><![CDATA[Reagan Ashmore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://reaganashmore.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 04:50:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 04:51:50 GMT</lastBuildDate>
+        <atom:link href="http://reaganashmore.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9083e2494410e38ac63da6b77d3fbb0b26709f1e.png">]]></description>
-            <link>undefined45797544-1054-4b62-b098-7861cad5496b/index.html</link>
+            <link>http://reaganashmore.com/45797544-1054-4b62-b098-7861cad5496b/index.html</link>
             <guid isPermaLink="false">45797544-1054-4b62-b098-7861cad5496b</guid>
             <pubDate>Fri, 17 Jun 2016 04:50:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contemporary Residence]]></title>
+            <description><![CDATA[<article><h1>Contemporary Residence</h1><p>This innovative double storey residence was built on a sloping block with a combination of zinc and CFC cement sheet cladding. It was designed to take full advantage of the magnificent views at the rear of the property.  To accomplish this, the east façade was fitted with floor to ceiling double glazed windows.  A plunge pool was installed so the client could enjoy the vistas whilst relaxing in complete privacy.  There is also an underground four car garage to complete this outstanding new home.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/446e51fc-94f5-46d9-b9fc-334969835338.jpg"></article>]]></description>
+            <link>http://www.humphriesandcooke.com.au/#!contemporary-residence/ccnv</link>
+            <guid isPermaLink="false">b2589834-f072-47b1-a1a9-552df68a2188</guid>
+            <pubDate>Fri, 17 Jun 2016 04:51:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
