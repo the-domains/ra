@@ -1,5 +1,4 @@
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6ab4fc-0a25-4f34-9fa1-9d87f72ad99c.png
+name: Reagan Ashmore
 opengraph:
   appId: '1029550447130474'
 collections:
@@ -21,14 +20,15 @@ color:
   brandStrength: 0.9964158
   lightness: 1
   brandColors:
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
+    - '#FFFFFF'
+    - '#424242'
+    - '#B7B7B7'
+    - '#999797'
+    - '#807E7F'
   rhythmicContrast: 1
 typography_spectrum: 0.40681
 layout_spectrum: 0.1275816380511969
 analytics:
   google: UA-78958233-1
-name: Reagan Ashmore
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6ab4fc-0a25-4f34-9fa1-9d87f72ad99c.png
