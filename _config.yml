@@ -1,6 +1,8 @@
 name: Reagan Ashmore
-opengraph:
-  appId: '1029550447130474'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6ab4fc-0a25-4f34-9fa1-9d87f72ad99c.png
+layout_spectrum: 1
+typography_spectrum: 0.40681
 collections:
   - index:
       path: /
@@ -15,20 +17,27 @@ collections:
       path: '/:title/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/80523df1-cd2f-41ab-b9a6-20a7dec82b89.png
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-78958233-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: '1029550447130474'
 color:
-  saturation: 1
-  brandStrength: 0.9964158
-  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#424242'
     - '#B7B7B7'
     - '#999797'
     - '#807E7F'
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-typography_spectrum: 0.40681
-layout_spectrum: 0.1275816380511969
-analytics:
-  google: UA-78958233-1
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6ab4fc-0a25-4f34-9fa1-9d87f72ad99c.png
+purpose: []
