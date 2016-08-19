@@ -1,7 +1,9 @@
 ---
-datePublished: '2016-06-17T04:51:48.715Z'
-sourcePath: _posts/2016-06-09-contemporary-residence.md
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'http://www.humphriesandcooke.com.au/#!contemporary-residence/ccnv'
+inLanguage: en
 keywords:
   - '9882'
   - humphriesandcooke
@@ -13,17 +15,6 @@ keywords:
   - glazed
   - storey
   - fax
-related: []
-author: []
-dateModified: '2016-06-17T04:51:45.110Z'
-title: Contemporary Residence
-app_links: []
-publisher:
-  url: 'http://www.humphriesandcooke.com.au'
-  name: Humphries and Cooke Pty Ltd - Victorian Master Builder
-  favicon: >-
-    http://static.wixstatic.com/ficons/beeb28_749d2d18299f464e9006d59bc5ca98db_fi.ico
-  domain: www.humphriesandcooke.com.au
 description: >-
   This innovative double storey residence was built on a sloping block with a
   combination of zinc and CFC cement sheet cladding. It was designed to take
@@ -32,11 +23,23 @@ description: >-
   glazed windows.  A plunge pool was installed so the client could enjoy the
   vistas whilst relaxing in complete privacy.  There is also an underground four
   car garage to complete this outstanding new home.
-inLanguage: en
+datePublished: '2016-08-19T02:34:12.354Z'
+dateModified: '2016-07-21T23:49:21.375Z'
+sourcePath: _posts/2016-06-09-contemporary-residence.md
+related: []
+author:
+  - name: ''
+    url: ''
+title: Contemporary Residence
+app_links: []
+authors: []
+publisher:
+  name: Humphries & Cooke Pty Ltd
+  domain: null
+  url: 'http://www.humphriesandcooke.com.au'
+  favicon: null
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
